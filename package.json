@@ -1,0 +1,26 @@
+{
+  "name": "test-library",
+  "version": "1.0.0",
+  "description": "Create test npm library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donharriman/test-library.git"
+  },
+  "keywords": [
+    "test",
+    "library"
+  ],
+  "author": "Donald C. Harriman <harri.soft999@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donharriman/test-library/issues"
+  },
+  "homepage": "https://github.com/donharriman/test-library#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
